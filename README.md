@@ -8,7 +8,7 @@ Outside of data science, I'm an avid reader, I enjoy action movies, and popcorn.
 
 ## 💥 Previous works
 
-* I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House](https://github.com/DanielBayo/Boston_House) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
+* I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 
 * I recently volunteered as a Data Analyst to train Corp Members on Microsoft Excel Spreadsheet for Data Analytics at Nigeria Christian Corpers Fellowship(NCCF) 
 
