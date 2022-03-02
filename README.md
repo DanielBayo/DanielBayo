@@ -10,7 +10,7 @@ Outside of data science, I'm an avid reader, I enjoy action movies, and popcorn.
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 
-## July,2021- Present,Role: Learning Management Business Data Analyst, Company:Tek Experts, Victoria Island Lagos State, Nigeria.
+## July,2021- Present,Role: Learning Management Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.
 
 • Organized meetings, gathers and documents requirements for reporting and 
 Dashboard projects from global stakeholders.
@@ -57,5 +57,5 @@ Dashboard projects from global stakeholders.
 
 ## &#x260e; Linkup@
 
-* [LinkedIn](https://www.linkedin.com/in/danielayangbile/)
+* [LinkedIn](https://www.linkedin.com/in/danielayangbile)
 * [Email](danielayangbile@gmail.com)
