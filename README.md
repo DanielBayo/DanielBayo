@@ -1,6 +1,6 @@
 ## 👋 Hello and Welcome!
 
-I'm a data scientist with interest in,Data Analytics, Machine Learning and Artificial Intelligence. I have a background in Engineering, Chemical Engineering to be precise. I was a data scientist intern at DataBunk Nigeria where I learnt more and as well taught Data Analysis and Data science.I also coordinated a project to analyze consumer segments and other demographic information to provide insight for product development, usage and marketing opportunities. 
+I'm a Data analyst with interest in,Data Science, Machine Learning and Artificial Intelligence. I have a background in Engineering, Chemical Engineering to be precise. Skilled data analyst with 2 years of industry experience in collecting, organizing, interpreting, visualizing, and disseminating various types of statistical figures. Energetic presenter and confident communicator with the ability to visualize data clearly and efficiently in a beneficialway for the stakeholder. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
 
 I have experience in data acquisition and modeling, statistical analysis, machine learning and data analytics. I exercised skills in communication, critical thinking and conflict management and consistently contributed to team efforts and organizational improvements. I am open-minded and focused on new developments in my field. I have proven to be effective and motivational, with proficiency in leadership and collaborative work. I enjoyed brainstorming and coordinating efforts to achieve a common goal.
 
@@ -33,17 +33,23 @@ Dashboard projects from global stakeholders.
 
 • Presented reports to clients and teammates regarding project progress and results.
  
-## January 2020- January 2021
-## Role:Data Analyst Intern
-## Company: DataBunk Nigeria, Ogba Lagos State, Nigeria.
+## January 2020- January 2021,  Data Analyst Intern, DataBunk Nigeria, Ogba Lagos State, Nigeria.
 • Identified, analyzed, and interpreted trends or patterns in complex data sets by finding correlations and visualizing with charts.
+
 • Completed data cleaning and data validation of existing spreadsheets to promote robust data management platform, resulting in accurate data analysis and entry.
+
 • Cleaned up and backed up data to maintain data integrity during extraction, manipulation, and processing.
+
 • Facilitated virtual data analytics class using Microsoft Excel spreadsheet. 
+
 • Carried out data quality assessment, cleaned, transformed, and store consistent data.
+
 • Created and maintain updated commercial dashboards and performance metrics.
+
 • Created business metrics reports on marketing and sales activities for businesses.
+
 • Analyzed marketing and sales data to develop insights and made recommendations on areas for optimization. 
+
 • Analyze consumer data python into segments and other demographic information to provide insight for product development, usage, and marketing opportunities.
 
 ## &#x270f; Recent Articles 
@@ -51,5 +57,5 @@ Dashboard projects from global stakeholders.
 
 ## &#x260e; Linkup@
 
-* [LinkedIn](https://www.linkedin.com/in/daniel-ayangbile-bayo/)
+* [LinkedIn](https://www.linkedin.com/in/danielayangbile/)
 * [Email](danielayangbile@gmail.com)
