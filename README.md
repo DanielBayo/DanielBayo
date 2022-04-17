@@ -20,7 +20,7 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 * [KPMG Internship Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2RiYWQtOTM0MC00ZWM1LThlY2EtNzk3MzJhYWEzZDBlIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
 
-*[Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
+* [Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 
