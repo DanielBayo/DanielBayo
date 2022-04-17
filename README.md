@@ -1,14 +1,28 @@
 ## 👋 Hello and Welcome!
 
-I'm a Data analyst with interest in,Data Science, Machine Learning and Artificial Intelligence. I have a background in Engineering, Chemical Engineering to be precise. Skilled data analyst with 2 years of industry experience in collecting, organizing, interpreting, visualizing, and disseminating various types of statistical figures. Energetic presenter and confident communicator with the ability to visualize data clearly and efficiently in a beneficialway for the stakeholder. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
+I'm a Business Data analyst with keen interest in,Business Intelligence,Data Science, Machine Learning and Artificial Intelligence for business growth. I have a background in Engineering, Chemical Engineering to be precise. Skilled data analyst with 2 years of industry experience in collecting, organizing, reporting, analyzing, visualizing, interpreting and disseminating analytical findings. Energetic presenter and confident communicator with the ability to visualize data clearly and efficiently in a beneficial way for the stakeholder. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
 
-I have experience in data acquisition and modeling, statistical analysis, machine learning and data analytics. I exercised skills in communication, critical thinking and conflict management and consistently contributed to team efforts and organizational improvements. I am open-minded and focused on new developments in my field. I have proven to be effective and motivational, with proficiency in leadership and collaborative work. I enjoyed brainstorming and coordinating efforts to achieve a common goal.
+I have experience in analyzing consumer segments and other demographic information to provide insight for product development, usage and marketing opportunities for a retailing company. I also contributed to a projects involving development of a predictive algorithms amongst others. 
 
-Outside of data science, I'm an avid reader, I enjoy action movies, and popcorn.
+In addition, I currently function as a Learning Management System Business Data Analyst, where I analyze learning data to answer business questions and also provide business reports for the global team. I gather, draft and document reporting and dashboard requirements. I also develop interactive dashboards for various stakeholders and have redesigned some of the existing dashboards as a result of poor user experience. I take great pleasure in exploring the relationships between numbers and then translating the figures into business stories for others. These stories create actionable strategies and solutions that can be a key part of success in our age of Big Data. I like to see myself as a valuable tool to decision makers.
 
-## 💥 Previous works
+I have excellent communication skills, attention-to-detail and I am great at working in teams. I am happy working alone with my head stuck in numbers or working as a motivated part of a team to consistently contributed to team efforts and organizational improvements. I am open-minded and focused on new developments in my field. I have proven to be effective and motivational, with proficiency in leadership and collaborative work. I enjoyed brainstorming and coordinating efforts to achieve a common goal.
+
+Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
+
+## 💥 Previous works/ Projects
+
+* [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
+
+* [Sales Dashboard](https://www.novypro.com/project/super-store-sales-dashboard)
+
+* [Market Analysis Dashboard](https://www.novypro.com/project/movie-market-analysis)
+
+* [KPMG Internship Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2RiYWQtOTM0MC00ZWM1LThlY2EtNzk3MzJhYWEzZDBlIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
+
+
 
 ## July,2021- Present,Role: Learning Management Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.
 
