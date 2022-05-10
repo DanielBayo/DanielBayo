@@ -14,6 +14,8 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
 
+*[Resagratia Employee Attrition](https://app.powerbi.com/view?r=eyJrIjoiZjkyNDZmMDYtZjZlNC00ZDBlLWI2YjktZGI4Y2M4ZTdmN2YyIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
+
 * [Sales Dashboard](https://www.novypro.com/project/super-store-sales-dashboard)
 
 * [Market Analysis Dashboard](https://www.novypro.com/project/movie-market-analysis)
