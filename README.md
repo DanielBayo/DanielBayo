@@ -12,7 +12,7 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ## 💥 Previous works/ Projects
 
-## Power BI Dashboards
+### Power BI Dashboards
 
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
 
@@ -27,22 +27,20 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 * [Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
 
 
-## Machine Learning
+### Machine Learning
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 
-## SQL
+### SQL
 
-* AdventureWorks SQL Revenue Analysis
-* Covid 19 SQL Analysis
+* [AdventureWorks SQL Revenue Analysis]
+* [Covid 19 SQL Analysis]
 
-## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria
-## May,2022- Present
+## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- Present
 
 * Development of Dashboard
 
-## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.
-## July,2021- Present
+## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.   July,2021- Present
 
 • Organized meetings, gathers and documents requirements for reporting and 
 Dashboard projects from global stakeholders.
@@ -65,8 +63,7 @@ Dashboard projects from global stakeholders.
 
 • Presented reports to clients and teammates regarding project progress and results.
  
-## Data Analyst Intern, DataBunk Nigeria, Ogba Lagos State, Nigeria.
-## January 2020- January 2021
+## Data Analyst Intern, DataBunk Nigeria, Ogba Lagos State, Nigeria.       January 2020- January 2021
 • Identified, analyzed, and interpreted trends or patterns in complex data sets by finding correlations and visualizing with charts.
 
 • Completed data cleaning and data validation of existing spreadsheets to promote robust data management platform, resulting in accurate data analysis and entry.
