@@ -12,6 +12,8 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ## 💥 Previous works/ Projects
 
+## Power BI Dashboards
+
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
 
 * [Resagratia Employee Attrition](https://app.powerbi.com/view?r=eyJrIjoiZjkyNDZmMDYtZjZlNC00ZDBlLWI2YjktZGI4Y2M4ZTdmN2YyIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
@@ -24,9 +26,20 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 * [Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
 
+
+## Machine Learning
+
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 
+## SQL
 
+* AdventureWorks SQL Revenue Analysis
+* Covid 19 SQL Analysis
+
+## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria
+## May,2022- Present
+
+* Development of Dashboard
 
 ## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.
 ## July,2021- Present
