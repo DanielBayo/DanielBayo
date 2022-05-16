@@ -33,8 +33,8 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ### SQL
 
-* [AdventureWorks SQL Revenue Analysis]
-* [Covid 19 SQL Analysis]
+* [AdventureWorks SQL Revenue Analysis](https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/README.md)
+* [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql)
 
 ## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- Present
 
@@ -42,8 +42,7 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.   July,2021- Present
 
-• Organized meetings, gathers and documents requirements for reporting and 
-Dashboard projects from global stakeholders.
+• Organized meetings, gathers and documents requirements for reporting and Dashboard projects from global stakeholders.
 
 • Visualize and interpreted analytical findings for the stakeholder which brought about 20% decrease in the Engineers attrition rate.
 
@@ -64,6 +63,7 @@ Dashboard projects from global stakeholders.
 • Presented reports to clients and teammates regarding project progress and results.
  
 ## Data Analyst Intern, DataBunk Nigeria, Ogba Lagos State, Nigeria.       January 2020- January 2021
+
 • Identified, analyzed, and interpreted trends or patterns in complex data sets by finding correlations and visualizing with charts.
 
 • Completed data cleaning and data validation of existing spreadsheets to promote robust data management platform, resulting in accurate data analysis and entry.
