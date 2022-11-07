@@ -38,9 +38,15 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- Present
 
-* Development of Dashboard
+*  Built Sales performance dashboards which helps to track major KPIs for Market logistics for 6 African countries where the distributors management system have been launched.
+* Built a dashboard for the mobile app used by Bulk breaker and distributors and also provides analytical supports for the Route to market team
+* Built a Customer Segmentation Analysis Report for Nigeria that helps the Business developer representatives in targeted sales.
+* Built and automated daily Opening and Closing stock report that help track distributors daily product sales.
+* Provided quarterly data quality Assessment report and recommendations to the Product Owner and the Back End engineers to reduce the data quality issues.
+* Developed a customer cohort Analysis to track the monthly Active Users and hence customer retention rate.
+* Provides daily, monthly and quarterly ad hoc report to senior executives.
 
-## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.   July,2021- Present
+## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.   July,2021- July,2022
 
 • Organized meetings, gathers and documents requirements for reporting and Dashboard projects from global stakeholders.
 
