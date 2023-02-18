@@ -12,6 +12,11 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ## 💥 Previous works/ Projects
 
+### SQL
+
+* [AdventureWorks SQL Revenue Analysis](https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/README.md)
+* [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql)
+
 ### Power BI Dashboards
 
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
@@ -32,11 +37,6 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 ### Machine Learning
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
-
-### SQL
-
-* [AdventureWorks SQL Revenue Analysis](https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/README.md)
-* [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql)
 
 ## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- Present
 
