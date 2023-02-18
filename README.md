@@ -15,8 +15,8 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 ### SQL
 
 * [AdventureWorks SQL Revenue Analysis](https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/README.md)
-* [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql)
-* [Market Basket Analysis in SQL]([https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL)
+* [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql/blob/main/README.md)
+* [Market Basket Analysis in SQL]([https://github.com/DanielBayo/Covid-19-SQL-Data-Eploration/blob/main/CovidPortfolio.sql](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL/blob/main/README.md))
 
 ### Power BI Dashboards
 
