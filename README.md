@@ -34,7 +34,7 @@ Click to view
 * [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Exploration/blob/main/README.md)
 * [Market Basket Analysis in SQL](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL/blob/main/README.md)
 * [Movie Rentals Data Exploration in POSTGRES](https://github.com/DanielBayo/Data-Exploration-In-SQL/blob/main/serious_sql_data_exploration.md)
-
+</details>
 ### Power BI Dashboards
  
 <details>
@@ -43,13 +43,18 @@ Click to view
 </summary>
  
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
+ 
 * [Resagratia Employee Attrition](https://app.powerbi.com/view?r=eyJrIjoiZjkyNDZmMDYtZjZlNC00ZDBlLWI2YjktZGI4Y2M4ZTdmN2YyIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
+ 
 * [Sales Dashboard](https://www.novypro.com/project/super-store-sales-dashboard)
+ 
 * [Market Analysis Dashboard](https://www.novypro.com/project/movie-market-analysis)
+ 
 * [KPMG Internship Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2RiYWQtOTM0MC00ZWM1LThlY2EtNzk3MzJhYWEzZDBlIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
+ 
 * [Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
  
-<details>
+</details>
  
 ### Data Transformation/Power Query/ M Language
  
@@ -59,7 +64,7 @@ Click to view
 </summary>
  
 * [Data Transformation Project](https://github.com/DanielBayo/Data-Transformation-Using-Power-Query)
-<details>
+</details>
 
 ### Machine Learning
  
@@ -69,7 +74,7 @@ Click to view
 </summary>
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
-<details>
+</details>
  
  ## WORK EXPERIENCE
 ## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- December, 2022.
@@ -86,7 +91,7 @@ Click to view
 * Provided quarterly data quality Assessment report and recommendations to the Product Owner and the Back End engineers to reduce the data quality issues.
 * Developed a customer cohort Analysis to track the monthly Active Users and hence customer retention rate.
 * Provides daily, monthly and quarterly ad hoc report to senior executives.
-<details>
+</details>
 
 ## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.   July,2021- July,2022
  
@@ -114,7 +119,7 @@ Click to view
 • Created and documented over 7 job aids in the teams SharePoint folder
 
 • Presented reports to clients and teammates regarding project progress and results.
-<details>
+</details>
  
 ## Data Analyst Intern, DataBunk Nigeria, Ogba Lagos State, Nigeria.       January 2020- January 2021
  
@@ -140,7 +145,7 @@ Click to view
 • Analyzed marketing and sales data to develop insights and made recommendations on areas for optimization. 
 
 • Analyze consumer data python into segments and other demographic information to provide insight for product development, usage, and marketing opportunities.
-<details>
+</details>
 
 ## &#x270f; Recent Articles 
 
