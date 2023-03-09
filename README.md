@@ -35,8 +35,6 @@ Click to view
 * [Market Basket Analysis in SQL](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL/blob/main/README.md)
 * [Movie Rentals Data Exploration in POSTGRES](https://github.com/DanielBayo/Data-Exploration-In-SQL/blob/main/serious_sql_data_exploration.md)
 
-<details>
-
 ### Power BI Dashboards
  
 <details>
