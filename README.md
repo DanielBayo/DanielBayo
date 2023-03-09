@@ -1,6 +1,12 @@
 ## 👋 Hello and Welcome!
 
-> I'm a Data analyst with keen interest in Business Intelligence,Data Science, Machine Learning and Artificial Intelligence for business growth. I have a background in Engineering, Chemical Engineering to be precise. Skilled data analyst with 2 years of industry experience in collecting, organizing, reporting, analyzing, visualizing, interpreting and disseminating analytical findings. Energetic presenter and confident communicator with the ability to visualize data clearly and efficiently in a beneficial way for the stakeholder. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
+
+<details>
+<summary>
+Click to view
+</summary>
+ 
+I'm a Data analyst with keen interest in Business Intelligence,Data Science, Machine Learning and Artificial Intelligence for business growth. I have a background in Engineering, Chemical Engineering to be precise. Skilled data analyst with 2 years of industry experience in collecting, organizing, reporting, analyzing, visualizing, interpreting and disseminating analytical findings. Energetic presenter and confident communicator with the ability to visualize data clearly and efficiently in a beneficial way for the stakeholder. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
 
 I have experience in analyzing consumer segments and other demographic information to provide insight for product development, usage and marketing opportunities for a retailing company. I also contributed to a projects involving development of a predictive algorithms amongst others. 
 
@@ -13,6 +19,8 @@ I currently freelance for organizations and individuals in data analytics relate
 I have excellent communication skills, attention-to-detail and I am great at working in teams. I am happy working alone with my head stuck in numbers or working as a motivated part of a team to consistently contributed to team efforts and organizational improvements. I am open-minded and focused on new developments in my field. I have proven to be effective and motivational, with proficiency in leadership and collaborative work. I enjoyed brainstorming and coordinating efforts to achieve a common goal.
 
 Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
+
+</details>
 
 ## 💥 Previous works/ Projects
 
