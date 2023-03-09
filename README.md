@@ -19,26 +19,23 @@ I currently freelance for organizations and individuals in data analytics relate
 I have excellent communication skills, attention-to-detail and I am great at working in teams. I am happy working alone with my head stuck in numbers or working as a motivated part of a team to consistently contributed to team efforts and organizational improvements. I am open-minded and focused on new developments in my field. I have proven to be effective and motivational, with proficiency in leadership and collaborative work. I enjoyed brainstorming and coordinating efforts to achieve a common goal.
 
 Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
-
 </details>
 
 ## 💥 Previous works/ Projects
 
 ### SQL
+
 <details>
 <summary>
 Click to view
 </summary>
-
 * [AdventureWorks SQL Revenue Analysis](https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/README.md)
 * [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Exploration/blob/main/README.md)
 * [Market Basket Analysis in SQL](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL/blob/main/README.md)
 * [Movie Rentals Data Exploration in POSTGRES](https://github.com/DanielBayo/Data-Exploration-In-SQL/blob/main/serious_sql_data_exploration.md)
-
 <details>
 ### Power BI Dashboards
-
- <details>
+<details>
 <summary>
 Click to view
 </summary>
@@ -55,13 +52,11 @@ Click to view
 * [Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
 <details>
 ### Data Transformation/Power Query/ M Language
-
 <details>
 <summary>
 Click to view
 </summary>
 * [Data Transformation Project](https://github.com/DanielBayo/Data-Transformation-Using-Power-Query)
- 
 <details>
 
 ### Machine Learning
