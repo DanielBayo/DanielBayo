@@ -34,7 +34,9 @@ Click to view
 * [Covid 19 SQL Analysis](https://github.com/DanielBayo/Covid-19-SQL-Data-Exploration/blob/main/README.md)
 * [Market Basket Analysis in SQL](https://github.com/DanielBayo/Market-Basket-Analysis-in-SQL/blob/main/README.md)
 * [Movie Rentals Data Exploration in POSTGRES](https://github.com/DanielBayo/Data-Exploration-In-SQL/blob/main/serious_sql_data_exploration.md)
- 
+
+<details>
+
 ### Power BI Dashboards
  
 <details>
@@ -43,16 +45,12 @@ Click to view
 </summary>
  
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
-
 * [Resagratia Employee Attrition](https://app.powerbi.com/view?r=eyJrIjoiZjkyNDZmMDYtZjZlNC00ZDBlLWI2YjktZGI4Y2M4ZTdmN2YyIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
-
 * [Sales Dashboard](https://www.novypro.com/project/super-store-sales-dashboard)
-
 * [Market Analysis Dashboard](https://www.novypro.com/project/movie-market-analysis)
-
 * [KPMG Internship Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDYzM2RiYWQtOTM0MC00ZWM1LThlY2EtNzk3MzJhYWEzZDBlIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
-
 * [Employee Demographic Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzhkZDE5Y2EtN2Q1Mi00ZjZmLTk2NzMtZjIzMzUwMTJjNzQ2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
+ 
 <details>
  
 ### Data Transformation/Power Query/ M Language
