@@ -68,12 +68,14 @@ Click to view
 * [Data Transformation Project](https://github.com/DanielBayo/Data-Transformation-Using-Power-Query)
 </details>
 
-### Machine Learning
+### Python/Machine Learning
  
 <details>
 <summary>
 Click to view
 </summary>
+ 
+* [Brazil Real Estate Analysis/Prediction](https://github.com/DanielBayo/Brasil-Real-Estate-)
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 </details>
