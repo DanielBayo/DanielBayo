@@ -76,6 +76,8 @@ Click to view
 </summary>
  
 * [Brazil Real Estate Analysis/Prediction](https://github.com/DanielBayo/Brasil-Real-Estate-)
+ 
+* I developed an algorithm for [Staff Promotion Prediction](https://github.com/DanielBayo/Staff-Promotion-Prediction)
 
 * I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
 </details>
