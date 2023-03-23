@@ -43,6 +43,7 @@ Click to view
 Click to view
 </summary>
  
+* [United States Post Election Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjg1Y2U2MjQtZGU3ZC00ZDY1LTkwMjctMGE0ZTVlMDRmOWI2IiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9) 
 * [Adventure Works Sales analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZiN2QzOTEtZDM2My00ZDY2LTlkYTYtMWQwNjgzMmViMmRmIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9&pageName=ReportSection)
  
 * [Resagratia Employee Attrition](https://app.powerbi.com/view?r=eyJrIjoiZjkyNDZmMDYtZjZlNC00ZDBlLWI2YjktZGI4Y2M4ZTdmN2YyIiwidCI6IjY4MWI3MDc3LWYyNDgtNDY3OS05ZDkzLTAwNGY4MDNkN2E0NyJ9)
