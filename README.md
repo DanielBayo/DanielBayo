@@ -83,7 +83,7 @@ Click to view
 </details>
  
  ## WORK EXPERIENCE
-## Data Scientist, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- December, 2022.
+## Data Scientist/Data Analyst, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- January, 2023.
 
  <details>
 <summary>
