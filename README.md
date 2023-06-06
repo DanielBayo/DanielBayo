@@ -79,11 +79,27 @@ Click to view
  
 * I developed an algorithm for [Staff Promotion Prediction](https://github.com/DanielBayo/Staff-Promotion-Prediction)
 
-* I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out](https://bostonhouseprice.herokuapp.com/)!
+* I deployed a web app on Heroku using Streamlit to create an interactive model from my [Predicting Boston House Price](https://github.com/DanielBayo/Boston-House-Price-Prediction) repo. [Check it out]([https://bostonhouseprice.herokuapp.com/](https://propestimator.streamlit.app/))!
 </details>
  
  ## WORK EXPERIENCE
-## Data Scientist/Data Analyst, Anheuser-Busch InBev (AB InBev), Lagos Nigeria.     May,2022- January, 2023.
+ ## Data Analyst Mentor, Tri Inspire Tech Ltd, Nigeria.     January,2022- Till Date.
+
+ <details>
+<summary>
+Click to view
+</summary>
+  
+Provide expert data analysis services and mentorship to interns in part-time capacity. Deliver exceptional support to interns 
+with analytical tools and provide technical guidance for projects. Lead meetups to discuss data analytics processes and career 
+development opportunities. Utilise advanced statistical techniques and data visualisation tools to derive actionable insights 
+from complex data sets.
+* Created comprehensive Data Analytics career path curriculum and training materials
+* Executed end-to-end analytical projects for company’s client to optimise company profits.
+* Provided guidance and support to 20 candidates in successfully transitioning into tech field whilst three individuals obtained employment as data analysts
+</details>
+ 
+## Data Scientist/Data Analyst, Anheuser-Busch InBev (AB InBev),(Remote).     May,2022- January, 2023.
 
  <details>
 <summary>
@@ -99,7 +115,7 @@ Click to view
 * Provides daily, monthly and quarterly ad hoc report to senior executives.
 </details>
 
-## Learning Management System Business Data Analyst, Tek Experts, Victoria Island Lagos State, Nigeria.   July,2021- July,2022
+## Learning Management System Business Data Analyst, Tek Experts,Lagos State, Nigeria.   July,2021- July,2022
  
 <details>
 <summary>
