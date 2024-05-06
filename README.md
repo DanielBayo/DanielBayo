@@ -83,7 +83,7 @@ Click to view
 </details>
  
  ## WORK EXPERIENCE
- ## Data Analyst Mentor, Tri Inspire Tech Ltd, Nigeria.     January,2022- Till Date.
+ ## Data Analyst Mentor, Tri Inspire Tech Ltd, Nigeria.     January,2022- June, 2024.
 
  <details>
 <summary>
