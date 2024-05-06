@@ -31,7 +31,7 @@ Click to view
 </summary>
  
 * [Instagram Login Page Clone](https://github.com/DanielBayo/Instagram-Login-Page/tree/main)
-* [E-Commerce Website]([https://github.com/DanielBayo/Covid-19-SQL-Data-Exploration/blob/main/README.md](https://github.com/DanielBayo/danielbayo.github.io/tree/main))
+* [E-Commerce Website](https://github.com/DanielBayo/danielbayo.github.io/tree/main)
 </details>
 
 ### SQL
