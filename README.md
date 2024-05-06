@@ -23,6 +23,17 @@ Outside of data analytics, I'm a reader, I enjoy action movies, and popcorn.
 
 ## 💥 Previous works/ Projects
 
+### Web Development
+
+<details>
+<summary>
+Click to view
+</summary>
+ 
+* [Instagram Login Page Clone](https://github.com/DanielBayo/Instagram-Login-Page/tree/main)
+* [E-Commerce Website]([https://github.com/DanielBayo/Covid-19-SQL-Data-Exploration/blob/main/README.md](https://github.com/DanielBayo/danielbayo.github.io/tree/main))
+</details>
+
 ### SQL
 
 <details>
@@ -83,6 +94,16 @@ Click to view
 </details>
  
  ## WORK EXPERIENCE
+## Data Analyst, MIAC Analytics Ltd, United Kingdom.     July,2023- Till Date.
+
+ <details>
+<summary>
+Click to view
+</summary>
+  
+To be Updated soon...
+</details>
+ 
  ## Data Analyst Mentor, Tri Inspire Tech Ltd, Nigeria.     January,2022- June, 2024.
 
  <details>
